@@ -2,9 +2,7 @@
 
 ## Project url
 
-```
 https://splendorous-zuccutto-ae554b.netlify.app
-```
 
 ## Project setup
 
@@ -30,5 +28,4 @@ yarn build
 yarn lint
 ```
 
-# Questions-table
 # poll-chart
