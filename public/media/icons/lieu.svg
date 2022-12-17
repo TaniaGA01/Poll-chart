@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.273" height="17" viewBox="0 0 14.273 17">
+    <g id="Page-1" transform="translate(1 1)">
+        <g id="Artboard">
+            <g id="map-pin">
+                <path id="Shape" d="M12.273,6.136C12.273,10.909,6.136,15,6.136,15S0,10.909,0,6.136a6.136,6.136,0,0,1,12.273,0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+                <circle id="Oval" cx="2.045" cy="2.045" r="2.045" transform="translate(4.091 4.091)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+        </g>
+    </g>
+</svg>

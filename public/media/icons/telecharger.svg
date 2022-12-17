@@ -1,0 +1,8 @@
+<svg id="download" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="20" height="20" opacity="0"/>
+    <rect id="Rectangle_90" data-name="Rectangle 90" width="13.333" height="1.667" rx="0.833" transform="translate(3.333 15)"/>
+    <rect id="Rectangle_91" data-name="Rectangle 91" width="3.333" height="1.667" rx="0.833" transform="translate(3.333 16.667) rotate(-90)"/>
+    <rect id="Rectangle_92" data-name="Rectangle 92" width="3.333" height="1.667" rx="0.833" transform="translate(15 16.667) rotate(-90)"/>
+    <path id="Tracé_95" data-name="Tracé 95" d="M11.166,14.167a.833.833,0,0,1-.483-.15L7.35,11.667a.834.834,0,1,1,.967-1.358l2.85,1.992L14,10.167A.833.833,0,1,1,15,11.5L11.666,14a.833.833,0,0,1-.5.167Z" transform="translate(-1.166 -1.667)"/>
+    <path id="Tracé_96" data-name="Tracé 96" d="M11.833,11.333A.833.833,0,0,1,11,10.5V3.833a.833.833,0,0,1,1.667,0V10.5A.833.833,0,0,1,11.833,11.333Z" transform="translate(-1.833 -0.5)"/>
+</svg>

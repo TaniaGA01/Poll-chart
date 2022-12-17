@@ -1,0 +1,84 @@
+//
+// To make future updates easier consider overriding the global variables from _variables.bootstrap.scss and _variables.custom.scss for current demo in this file.
+// Note that this file is included first and variables defined in _variables.bootstrap.scss and _variables.custom.scss
+// are not accessible in this file but you can override any global variable as shown below:
+//
+
+
+/*========================================================================================
+==================================CUSTOMISATION DE BOOTSTRAP==============================
+==========================================================================================*/
+
+// Bootstrap base colors
+$white:    											#ffffff !default;
+$black:    											#000000 !default;
+$gray-100: 										    if(isDarkMode(), #1b1b29, #F5F8FA) !default;
+$gray-200: 										    if(isDarkMode(), #2B2B40, #EFF2F5) !default;
+$gray-300: 										    if(isDarkMode(), #323248, #E4E6EF) !default;
+$gray-400: 										    if(isDarkMode(), #474761, #B5B5C3) !default;
+$gray-500: 										    if(isDarkMode(), #565674, #A1A5B7) !default;
+$gray-600: 										    if(isDarkMode(), #6D6D80, #7E8299) !default;
+$gray-700: 										    if(isDarkMode(), #92929F, #5E6278) !default;
+$gray-800: 										    if(isDarkMode(), #CDCDDE, #3F4254) !default;
+$gray-900: 										    if(isDarkMode(), #FFFFFF, #181C32) !default;
+$text-muted:                                        $gray-500 !default;
+
+
+// Theme colors
+// Primary
+$primary:       									if(isDarkMode(), #3699FF, #009EF7);
+$primary-active:    								if(isDarkMode(), #187DE4, #0095E8);
+$primary-light:    								    if(isDarkMode(), #212E48, #F1FAFF);
+$primary-inverse:  									#ffffff;
+
+
+// Secondary colors
+$secondary:     									if(isDarkMode(), #D8044C, #B7003E);
+$secondary-active:  								if(isDarkMode(), #3699FF, #009EF7);
+$secondary-light:  									if(isDarkMode(), #3699FF, #009EF7);
+$secondary-inverse:									if(isDarkMode(), #3699FF, #009EF7);
+
+// Success
+$success:       									if(isDarkMode(), #ACA200, #BFB300);
+$success-active:    								if(isDarkMode(), #ACA200, #BFB300);
+$success-light:    									if(isDarkMode(), #1C3238, #E8FFF3);
+$success-inverse:  									#ffffff;
+
+// Info
+$info:       									    if(isDarkMode(), #8950FC, #7239EA);
+$info-active:    									if(isDarkMode(), #7337EE, #5014D0);
+$info-light:    									if(isDarkMode(), #2F264F, #F8F5FF);
+$info-inverse:  									#ffffff;
+
+// Danger
+$danger:       									    if(isDarkMode(), #F64E60, #F1416C);
+$danger-active:    									if(isDarkMode(), #EE2D41, #D9214E);
+$danger-light:    									if(isDarkMode(), #3A2434, #FFF5F8);
+$danger-inverse:  									#ffffff;
+
+// Warning
+$warning:       									if(isDarkMode(), #FFA800, #FFC700);
+$warning-active:    								if(isDarkMode(), #EE9D01, #F1BC00);
+$warning-light:    									if(isDarkMode(), #392F28, #FFF8DD);
+$warning-inverse:  									#ffffff;
+
+// Border Radiues
+$border-radius-sm:            						1rem;
+$border-radius:               						.475rem;
+$border-radius-lg:            						.625rem;
+$border-radius-xl:                                  10rem ; // Custom variable
+
+$form-label-color:                                 $gray-900 !default;
+
+
+/*========================================================================================
+==============================FIN CUSTOMISATION DE BOOTSTRAP==============================
+==========================================================================================*/
+
+$blue-shadow:       									if(isDarkMode(), #9acdff, #c8ebff);
+
+$form-check-input-checked-color:                    $success-active !default;
+$form-check-input-checked-bg-color:                 $success-active !default;
+$form-check-input-checked-border-color:             $success-active !default;
+$form-check-input-checked-bg-image:                 url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 13 11' width='13' height='11' fill='none'><path d='M11.0426 1.02893C11.3258 0.695792 11.8254 0.655283 12.1585 0.938451C12.4917 1.22162 12.5322 1.72124 12.249 2.05437L5.51985 9.97104C5.23224 10.3094 4.72261 10.3451 4.3907 10.05L0.828197 6.88335C0.50141 6.59288 0.471975 6.09249 0.762452 5.7657C1.05293 5.43891 1.55332 5.40948 1.88011 5.69995L4.83765 8.32889L11.0426 1.02893Z' fill='#{$white}'/></svg>") !default;
+$form-check-radio-checked-bg-image:                 url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'><circle r='2' fill='#{$white}'/></svg>") !default;

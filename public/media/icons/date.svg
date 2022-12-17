@@ -1,0 +1,8 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g id="calendar">
+        <rect id="Rectangle_120" data-name="Rectangle 120" width="20" height="20" opacity="0"/>
+        <path id="Tracé_119" data-name="Tracé 119" d="M15.5,3.667h-.833V2.833a.833.833,0,1,0-1.667,0v.833H8V2.833a.833.833,0,0,0-1.667,0v.833H5.5A2.5,2.5,0,0,0,3,6.167v10a2.5,2.5,0,0,0,2.5,2.5h10a2.5,2.5,0,0,0,2.5-2.5v-10a2.5,2.5,0,0,0-2.5-2.5ZM5.5,5.333h.833v.833A.833.833,0,1,0,8,6.167V5.333h5v.833a.833.833,0,1,0,1.667,0V5.333H15.5a.833.833,0,0,1,.833.833V9.5H4.667V6.167A.833.833,0,0,1,5.5,5.333ZM15.5,17H5.5a.833.833,0,0,1-.833-.833v-5H16.333v5A.833.833,0,0,1,15.5,17Z" transform="translate(-0.5 -0.333)"/>
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="0.833" cy="0.833" r="0.833" transform="translate(5.833 12.5)"/>
+        <path id="Tracé_120" data-name="Tracé 120" d="M15.167,15H11.833a.833.833,0,1,0,0,1.667h3.333a.833.833,0,0,0,0-1.667Z" transform="translate(-1.833 -2.5)"/>
+    </g>
+</svg>
